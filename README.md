@@ -16,7 +16,7 @@ I build high-performance web applications, handling everything from database arc
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte)
 
 **Backend & Systems**
-![Python](https://img.shields.io/badge/-Python_(FastAPI, Flask)-black?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python_(FastAPI,_Flask)-black?style=flat-square&logo=python)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Java](https://img.shields.io/badge/-Java_Spring_Boot-black?style=flat-square&logo=springboot)
