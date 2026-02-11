@@ -10,16 +10,16 @@ I build high-performance web applications, handling everything from database arc
 
 **Frontend & Core**
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwindcss)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwindcss)
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte)
 
 **Backend & Systems**
-![Java](https://img.shields.io/badge/-Java_Spring_Boot-black?style=flat-square&logo=springboot)
 ![Python](https://img.shields.io/badge/-Python_(FastAPI)-black?style=flat-square&logo=python)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Java](https://img.shields.io/badge/-Java_Spring_Boot-black?style=flat-square&logo=springboot)
 
 ---
 
