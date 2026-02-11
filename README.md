@@ -25,6 +25,5 @@ I build high-performance web applications, handling everything from database arc
 
 <div align="center">
   <a href="https://umutsen.dev"><b>🌐 umutsen.dev</b></a> • 
-  <a href="https://linkedin.com/in/umutsen-dev"><b>LinkedIn</b></a> • 
-  <a href="mailto:umutsen2662@gmail.com"><b>Email</b></a>
+  <a href="https://linkedin.com/in/umutsen-dev"><b>LinkedIn</b></a>
 </div>
